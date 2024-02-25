@@ -1,6 +1,7 @@
 <h1 align="center"><b>Привет!</b> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40" alt="рука">
 <br>
 <b>Меня зовут Кирилл, я frontend-разработчик.</b></h1>
+
 <h2>Учился:</h2> 
 <a  href="https://practicum.yandex.ru"><b>Yandex.Практикум</b></a>
 <br>
@@ -18,9 +19,9 @@
 <a  href="https://git-scm.com"><img src="./src/images/git_icon.png" alt="git" height = 30></a>
 
 <h2>Избранные проекты:</h2>
-<a  href="https://github.com/MalskyKirill/react-burger"><h3>Stellar Burgers</h3></a>
+<a  href="https://github.com/MalskyKirill/react-burger"><b>Stellar Burgers</b></a>
 <p>Онлайн-конструктор бургеров, с возможностью перетаскивать ингредиенты и создавать свой собственный бургер.</p>
-<a  href="https://github.com/MalskyKirill/react-mesto-auth"><h3>React Mesto</h3></a>
+<a  href="https://github.com/MalskyKirill/react-mesto-auth"><b>React Mesto</b></a>
 <p>Фронтенд проекта Mesto с авторизацией и регистрацией</p>
-<a  href="https://github.com/MalskyKirill/react-mesto-auth"><h3>React Movies</h3></a>
+<a  href="https://github.com/MalskyKirill/react-mesto-auth"><b>React Movies</b></a>
 <p>Фронтенд дипломной работы на курсе веб-разработки Яндекс Практикум.</p>
