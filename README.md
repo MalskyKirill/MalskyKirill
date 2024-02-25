@@ -3,8 +3,8 @@
 <b>Меня зовут Кирилл, я frontend-разработчик.</b></h1>
 
 <h2>Учился:</h2> 
-<br>
 <a  href="https://practicum.yandex.ru"><b>Yandex.Практикум</b></a>
+<br>
 <br>
 <a  href="https://htmlacademy.ru"><b>HTML Academy</b></a>
 
