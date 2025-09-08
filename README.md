@@ -21,12 +21,27 @@
 <a  href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="./src/images/css3_icon.png" alt="CSS3" height = 30></a>
 <a  href="https://www.javascript.com"><img src="./src/images/js_icon.png" alt="JavaScript" height = 30></a>
 <a  href="https://git-scm.com"><img src="./src/images/git_icon.png" alt="git" height = 30></a>
+<a  href="https://www.java.com/"><img src="./src/images/java.png" alt="java" height = 30></a>
+<a  href="https://spring.io/"><img src="./src/images/spring.png" alt="spring" height = 30></a>
+<a  href="https://spring.io/projects/spring-boot/"><img src="./src/images/spring_boot.png" alt="spring-boot" height = 30></a>
+<a  href="https://www.postgresql.org/"><img src="./src/images/postgresql.png" alt="postgresql" height = 30></a>
+<a  href="https://www.docker.com/"><img src="./src/images/docker.png" alt="docker" height = 30></a>
 
 
 <h2>Избранные проекты по frontend:</h2>
 <a  href="https://github.com/MalskyKirill/react-burger"><b>Stellar Burgers</b></a>
 <p>Онлайн-конструктор бургеров, с возможностью перетаскивать ингредиенты и создавать свой собственный бургер.</p>
 <a  href="https://github.com/MalskyKirill/react-mesto-auth"><b>React Mesto</b></a>
-<p>Фронтенд проекта Mesto с авторизацией и регистрацией</p>
+<p>Фронтенд проекта Mesto с авторизацией и регистрацией.</p>
 <a  href="https://github.com/MalskyKirill/react-mesto-auth"><b>React Movies</b></a>
 <p>Фронтенд дипломной работы на курсе веб-разработки Яндекс Практикум.</p>
+
+<h2>Избранные проекты по backend:</h2>
+<a  href="https://github.com/MalskyKirill/plus-smart-home-tech"><b>Smart Home Technologies</b></a>
+<p>Микросервисное приложение специализирующееся на продаже и обслуживании умных устройств — датчиков движения, освещённости и температуры.</p>
+<a  href="https://github.com/MalskyKirill/java-plus-graduation/tree/main"><b>ExploreWithMe (EWM) Platform</b></a>
+<p>Платформа для поиска и организации мероприятий, управления заявками, рейтингов и аналитики, разработанная с использованием микросервисной архитектуры. </p>
+<a  href="https://github.com/MalskyKirill/java-shareit/tree/main"><b>Shareit</b></a>
+<p>Сервис для шеринга вещей.</p>
+
+
