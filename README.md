@@ -9,7 +9,7 @@
 <a  href="https://htmlacademy.ru"><b>HTML Academy</b></a>
 <br>
 
-<h2>В настоящее время обучаюсь в магистратуре НИЯУ МИФМ:</h2> 
+<h2>В настоящее время обучаюсь в магистратуре НИЯУ МИФИ:</h2> 
 <a  href="https://mephi.ru"><b>НИЯУ МИФИ</b></a>
 
 <h2>Стек и технологии:</h2>
@@ -22,7 +22,8 @@
 <a  href="https://www.javascript.com"><img src="./src/images/js_icon.png" alt="JavaScript" height = 30></a>
 <a  href="https://git-scm.com"><img src="./src/images/git_icon.png" alt="git" height = 30></a>
 
-<h2>Избранные проекты:</h2>
+
+<h2>Избранные проекты по frontend:</h2>
 <a  href="https://github.com/MalskyKirill/react-burger"><b>Stellar Burgers</b></a>
 <p>Онлайн-конструктор бургеров, с возможностью перетаскивать ингредиенты и создавать свой собственный бургер.</p>
 <a  href="https://github.com/MalskyKirill/react-mesto-auth"><b>React Mesto</b></a>
