@@ -9,6 +9,7 @@
 <a  href="https://htmlacademy.ru"><b>HTML Academy</b></a>
 <br>
 
+<h2>В настоящее время обучаюсь в магистратуре НИЯУ МИФМ:</h2> 
 <a  href="https://mephi.ru"><b>НИЯУ МИФИ</b></a>
 
 <h2>Стек и технологии:</h2>
