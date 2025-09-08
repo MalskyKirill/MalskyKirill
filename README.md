@@ -1,12 +1,15 @@
 <h1 align="center"><b>Привет!</b> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40" alt="рука">
 <br>
-<b>Меня зовут Кирилл, я frontend-разработчик.</b></h1>
+<b>Меня зовут Кирилл, я разработчик ПО.</b></h1>
 
 <h2>Учился:</h2> 
 <a  href="https://practicum.yandex.ru"><b>Yandex.Практикум</b></a>
 <br>
 
 <a  href="https://htmlacademy.ru"><b>HTML Academy</b></a>
+<br>
+
+<a  href="https://mephi.ru"><b>НИЯУ МИФИ</b></a>
 
 <h2>Стек и технологии:</h2>
 <br>
