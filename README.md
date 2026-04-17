@@ -1,6 +1,6 @@
 <h1 align="center"><b>Привет!</b> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40" alt="рука">
 <br>
-<b>Меня зовут Кирилл, я разработчик ПО.</b></h1>
+<b>Меня зовут Кирилл</b></h1>
 
 <h2>Учился:</h2> 
 <a  href="https://practicum.yandex.ru"><b>Yandex.Практикум</b></a>
